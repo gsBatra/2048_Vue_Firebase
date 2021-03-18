@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../2048_Game">
+      <excludeFolder url="file://$MODULE_DIR$/../2048_Game/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../2048_Game/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../2048_Game/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="vue" level="application" />
+    <orderEntry type="library" name="firebase-app" level="application" />
+    <orderEntry type="library" name="firebase-analytics" level="application" />
+    <orderEntry type="library" name="firebase-firestore" level="application" />
+    <orderEntry type="library" name="jquery-3.5.1" level="application" />
+  </component>
+</module>
